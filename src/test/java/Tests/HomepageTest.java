@@ -6,6 +6,8 @@ public class HomepageTest {
   @Test
   public void tc001_verifyspywynlogo() {
 	  System.out.println("spywynlogo");
+	  System.out.println("spywynlogo");
+
   }
 
 
